@@ -18,11 +18,11 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 20px;
-  color: #0084b4;
+  color: #9d3012;
 }
 
 a:link, a:visited {
-  color: #0084b4;
+  color: #9d3012;
   text-decoration: none;
 }
 
@@ -66,8 +66,8 @@ a:hover {
 }
 
 #logo {
-  width: 190px;
-  height: 64px;
+  width: 200px;
+  height: 200px;
   margin: 15px 0 0 15px;
   background: url("logo.png");
   text-indent: -99999px;
@@ -92,7 +92,7 @@ div.header h1 {
 #num-repos, #num-members {
   font-size: 14px;
   font-weight: bold;
-  color: #0084b4;
+  color: #9d3012;
   line-height: 15px;
 }
 
@@ -182,7 +182,7 @@ li.repo h3 {
   height: 0;
   border-bottom: 50px solid transparent;
   border-left: 50px solid transparent;
-  border-right: 50px solid #0080b0;
+  border-right: 50px solid #fe7e00;
   pointer-events: none;
 }
 

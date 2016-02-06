@@ -1,11 +1,10 @@
-twitter.github.com
-======
 
-The source code of http://twitter.github.com/
+## mangothecat.github.io
 
-LICENSE
-------------
+The source code of http://mangothecat.github.io
 
-Copyright 2012 Twitter, Inc.
+## LICENSE
+
+Copyright 2012, 2016 Twitter, Inc., Mango Solutions
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
